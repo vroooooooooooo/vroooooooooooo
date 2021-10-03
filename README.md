@@ -2,7 +2,7 @@
 
 ![external-content duckduckgo com](https://user-images.githubusercontent.com/91817371/135745121-9ea4d4b4-d150-4a8b-8592-0cea9a3282b6.gif)
 
-**• Developer of multiple tool's related to networking, database's, phishing, malware, & discord tool's.**
+**• Developer of multiple tool's related to networking, database's, phishing, malware, & etc.**
 
 **• HTML, CSS, Python, Javascript, C, C++, PHP, & SQL.**
 
