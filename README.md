@@ -4,7 +4,7 @@
 
 **• HTML, CSS, Python, Javascript, C, C++, PHP, & SQL.**
 
-**• Made some pretty cool tool's, for "ethical hacking."
+**• Made some pretty cool tool's, for "ethical hacking."**
 
 **• Visit my website, @ https://byebye.com**
 
