@@ -4,7 +4,7 @@
 
 **• HTML, CSS, Python, Javascript, C, C++, PHP, & SQL.**
 
-**• Made some pretty cool tool's, for "ethical hacking."**
+**• I develop tool's related to Networking, Database's, Malware, & Overall Web Devlopment.**
 
 **• Visit my website, @ https://byebye.com**
 
