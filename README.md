@@ -2,7 +2,7 @@
 
 ![external-content duckduckgo com](https://user-images.githubusercontent.com/91817371/135745121-9ea4d4b4-d150-4a8b-8592-0cea9a3282b6.gif)
 
-**• I develop tool's related to Networking, Database's, Malware, & Overall Web Devlopment.**
+**• I develop public tool's mostly related to Networking.**
 
 **• Visit my website, @ https://byebye.com**
 
