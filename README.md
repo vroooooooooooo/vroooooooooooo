@@ -4,7 +4,7 @@
 
 **• I develop public tool's mostly related to networking, celluar service's, & etc.**
 
-**• HTML, CSS, Javascript, Python, Perl, PHP, Golang, & SQL.
+**• HTML, CSS, Javascript, Python, Perl, PHP, Golang, & SQL.**
 
 **• Visit my website, @ https://byebye.com**
 
