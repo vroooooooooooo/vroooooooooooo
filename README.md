@@ -6,8 +6,6 @@
 
 **• https://leakedbase.com/**
 
-**• https://malwaremarket.com**
-
 **• https://byebye.com**
 
 **• https://reaperbot.com**
